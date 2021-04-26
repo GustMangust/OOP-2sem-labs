@@ -1,0 +1,10 @@
+D:\Git\Labs\OOP 2\Lab1dop\bin\Debug\Lab1dop.exe.config
+D:\Git\Labs\OOP 2\Lab1dop\bin\Debug\Lab1dop.exe
+D:\Git\Labs\OOP 2\Lab1dop\bin\Debug\Lab1dop.pdb
+D:\Git\Labs\OOP 2\Lab1dop\obj\Debug\Lab1dop.csprojAssemblyReference.cache
+D:\Git\Labs\OOP 2\Lab1dop\obj\Debug\Lab1dop.Form1.resources
+D:\Git\Labs\OOP 2\Lab1dop\obj\Debug\Lab1dop.Properties.Resources.resources
+D:\Git\Labs\OOP 2\Lab1dop\obj\Debug\Lab1dop.csproj.GenerateResource.cache
+D:\Git\Labs\OOP 2\Lab1dop\obj\Debug\Lab1dop.csproj.CoreCompileInputs.cache
+D:\Git\Labs\OOP 2\Lab1dop\obj\Debug\Lab1dop.exe
+D:\Git\Labs\OOP 2\Lab1dop\obj\Debug\Lab1dop.pdb

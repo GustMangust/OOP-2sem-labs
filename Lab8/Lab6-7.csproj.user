@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="CustomElement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\FilterPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SearchBookPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SearchResultsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="CustomElement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\colors.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\dark.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\lang.ru-RU.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\lang.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\light.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\FilterPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SearchBookPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SearchResultsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

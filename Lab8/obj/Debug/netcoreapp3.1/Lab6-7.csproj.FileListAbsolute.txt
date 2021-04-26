@@ -1,0 +1,131 @@
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.csprojAssemblyReference.cache
+G:\Lab6-7\obj\Debug\netcoreapp3.1\View\AddProduct.g.cs
+G:\Lab6-7\obj\Debug\netcoreapp3.1\View\EditBookPage.g.cs
+G:\Lab6-7\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+G:\Lab6-7\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.cache
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.lref
+G:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.exe
+G:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.deps.json
+G:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.json
+G:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.dev.json
+G:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.dll
+G:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.pdb
+G:\Lab6-7\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.UI.dll
+G:\Lab6-7\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.dll
+G:\Lab6-7\obj\Debug\netcoreapp3.1\App.baml
+G:\Lab6-7\obj\Debug\netcoreapp3.1\View\AddProduct.baml
+G:\Lab6-7\obj\Debug\netcoreapp3.1\View\EditBookPage.baml
+G:\Lab6-7\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.g.resources
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfoInputs.cache
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfo.cs
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CoreCompileInputs.cache
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CopyComplete
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.dll
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.pdb
+G:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.genruntimeconfig.cache
+G:\Lab6-7\obj\Debug\netcoreapp3.1\View\FilterPage.g.cs
+G:\Lab6-7\obj\Debug\netcoreapp3.1\View\FilterPage.baml
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.csprojAssemblyReference.cache
+E:\Lab6-7\obj\Debug\netcoreapp3.1\View\AddProduct.g.cs
+E:\Lab6-7\obj\Debug\netcoreapp3.1\View\EditBookPage.g.cs
+E:\Lab6-7\obj\Debug\netcoreapp3.1\View\FilterPage.g.cs
+E:\Lab6-7\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+E:\Lab6-7\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.cache
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.lref
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.dll
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.pdb
+E:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.exe
+E:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.deps.json
+E:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.json
+E:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.dev.json
+E:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.dll
+E:\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.pdb
+E:\Lab6-7\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.UI.dll
+E:\Lab6-7\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.dll
+E:\Lab6-7\obj\Debug\netcoreapp3.1\App.baml
+E:\Lab6-7\obj\Debug\netcoreapp3.1\View\AddProduct.baml
+E:\Lab6-7\obj\Debug\netcoreapp3.1\View\EditBookPage.baml
+E:\Lab6-7\obj\Debug\netcoreapp3.1\View\FilterPage.baml
+E:\Lab6-7\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.g.resources
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfoInputs.cache
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfo.cs
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CoreCompileInputs.cache
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CopyComplete
+E:\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.genruntimeconfig.cache
+D:\Git\Labs\OOP 2\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.exe
+D:\Git\Labs\OOP 2\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.deps.json
+D:\Git\Labs\OOP 2\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.json
+D:\Git\Labs\OOP 2\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.dev.json
+D:\Git\Labs\OOP 2\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.dll
+D:\Git\Labs\OOP 2\Lab6-7\bin\Debug\netcoreapp3.1\Lab6-7.pdb
+D:\Git\Labs\OOP 2\Lab6-7\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.UI.dll
+D:\Git\Labs\OOP 2\Lab6-7\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.dll
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.csprojAssemblyReference.cache
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\AddProduct.g.cs
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\EditBookPage.g.cs
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\FilterPage.g.cs
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.cache
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.lref
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\App.baml
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\AddProduct.baml
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\EditBookPage.baml
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\FilterPage.baml
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.g.resources
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CoreCompileInputs.cache
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfoInputs.cache
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfo.cs
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CopyComplete
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.dll
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.pdb
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Lab6-7.genruntimeconfig.cache
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\SearchBookPage.g.cs
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\SearchResultsPage.g.cs
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\SearchBookPage.baml
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\View\SearchResultsPage.baml
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Resources\lang.baml
+D:\Git\Labs\OOP 2\Lab6-7\obj\Debug\netcoreapp3.1\Resources\lang.ru-RU.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.csprojAssemblyReference.cache
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\AddProduct.g.cs
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\EditBookPage.g.cs
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\FilterPage.g.cs
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\SearchBookPage.g.cs
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\SearchResultsPage.g.cs
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.cache
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.lref
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.dll
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.pdb
+D:\Git\Labs\OOP 2\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.exe
+D:\Git\Labs\OOP 2\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.deps.json
+D:\Git\Labs\OOP 2\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.json
+D:\Git\Labs\OOP 2\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.dev.json
+D:\Git\Labs\OOP 2\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.dll
+D:\Git\Labs\OOP 2\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.pdb
+D:\Git\Labs\OOP 2\Lab8\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.UI.dll
+D:\Git\Labs\OOP 2\Lab8\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.dll
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\App.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Resources\dark.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Resources\lang.ru-RU.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Resources\lang.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Resources\light.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\AddProduct.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\EditBookPage.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\FilterPage.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\SearchBookPage.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\View\SearchResultsPage.baml
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.g.resources
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CoreCompileInputs.cache
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfoInputs.cache
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfo.cs
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CopyComplete
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.genruntimeconfig.cache
+D:\Git\Labs\OOP 2\Lab8\obj\Debug\netcoreapp3.1\Resources\colors.baml

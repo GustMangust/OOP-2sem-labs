@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Full_title>Полковнику никто не пишет</Full_title>
+    <Author_name>Габриэль Гарсия Маркес</Author_name>
+    <Description>Классная</Description>
+    <Category>Новелла</Category>
+    <Picture>C:\Users\GustMangust\Desktop\cameronsage.jpg</Picture>
+    <Rating>5</Rating>
+    <Amount>500</Amount>
+    <Price>200</Price>
+  </Book>
+  <Book>
+    <Full_title>Норвежский лес</Full_title>
+    <Author_name>Харуки Мураками</Author_name>
+    <Description>Про лес</Description>
+    <Category>Роман</Category>
+    <Picture>C:\Users\GustMangust\Desktop\billy.jpg</Picture>
+    <Rating>4</Rating>
+    <Amount>200</Amount>
+    <Price>350</Price>
+  </Book>
+  <Book>
+    <Full_title>Старик и морефывфыв</Full_title>
+    <Author_name>Эрнест Хэмингуэй</Author_name>
+    <Description>Море</Description>
+    <Category>Повесть</Category>
+    <Picture>C:\Users\GustMangust\Desktop\Cover_sg_via2000.jpg</Picture>
+    <Rating>2</Rating>
+    <Amount>120</Amount>
+    <Price>800</Price>
+  </Book>
+</ArrayOfBook>

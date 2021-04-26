@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfDiscipline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Discipline>
+    <semestr>1</semestr>
+    <name>asdf</name>
+    <kurs>1</kurs>
+    <spec>ПОИТ</spec>
+    <amountOfLectures>21</amountOfLectures>
+    <amountOfLabs>12</amountOfLabs>
+    <formOfTest>Зачёт</formOfTest>
+    <lecturer>
+      <department>esafwea</department>
+      <fullname>fawefwea</fullname>
+      <cabinet>123-3</cabinet>
+    </lecturer>
+  </Discipline>
+  <Discipline>
+    <semestr>1</semestr>
+    <name>asdf</name>
+    <kurs>1</kurs>
+    <spec>ПОИТ</spec>
+    <amountOfLectures>21</amountOfLectures>
+    <amountOfLabs>12</amountOfLabs>
+    <formOfTest>Зачёт</formOfTest>
+    <lecturer>
+      <department>esafwea</department>
+      <fullname>fawefwea</fullname>
+      <cabinet>123-3</cabinet>
+    </lecturer>
+  </Discipline>
+</ArrayOfDiscipline>

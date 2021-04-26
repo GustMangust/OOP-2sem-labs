@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Lab6_7</RootNamespace>
+    <UseWPF>true</UseWPF>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <ApplicationIcon>read_book_study_icon-icons.com_51077.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Arrow.cur" />
+    <None Remove="Images\rocketanimated2.ani" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpressMvvm" Version="20.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Arrow.cur" />
+    <Resource Include="rocketanimated2.ani" />
+  </ItemGroup>
+
+</Project>

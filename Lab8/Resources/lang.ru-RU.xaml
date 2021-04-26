@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Lab6_7.Resources" 
+                    xmlns:v="clr-namespace:System;assembly=mscorlib" xmlns:v1="clr-namespace:System;assembly=System.Runtime">
+    <v1:String x:Key="m_Apply">Применить</v1:String>
+    <v1:String x:Key="m_Back">Назад</v1:String>
+    <v1:String x:Key="m_LoadPicture">Загрузить картинку</v1:String>
+    <v1:String x:Key="m_OpenAdd">Добавить</v1:String>
+    <v1:String x:Key="m_OpenEdit">Изменить</v1:String>
+    <v1:String x:Key="m_OpenFilter">Сортировка</v1:String>
+    <v1:String x:Key="m_OpenSearch">Поиск</v1:String>
+    <v1:String x:Key="m_Title">Название</v1:String>
+    <v1:String x:Key="m_Category">Категория</v1:String>
+    <v1:String x:Key="m_Author">Автор</v1:String>
+    <v1:String x:Key="m_Price">Цена</v1:String>
+    <v1:String x:Key="m_Rating">Рейтинг</v1:String>
+    <v1:String x:Key="m_Description">Описание</v1:String>
+    <v1:String x:Key="m_Amount">Количество</v1:String>
+    <v1:String x:Key="m_Uncorrect">Неверные данные</v1:String>
+    <v1:String x:Key="m_Delete">Удалить</v1:String>
+    <v1:String x:Key="m_InputQuery">Введите запрос</v1:String>
+</ResourceDictionary>
