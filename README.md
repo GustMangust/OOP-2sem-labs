@@ -1,2 +1,2 @@
-# OOP-2sem-labs
+# OOP-2sem-labs WPF, WinForms
  
