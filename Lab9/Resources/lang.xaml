@@ -1,0 +1,22 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Lab6_7.Resources" 
+                    xmlns:v="clr-namespace:System;assembly=mscorlib" xmlns:v1="clr-namespace:System;assembly=System.Runtime">
+    <v1:String x:Key="m_Apply">Apply</v1:String>
+    <v1:String x:Key="m_Back">Back</v1:String>
+    <v1:String x:Key="m_LoadPicture">LoadPicture</v1:String>
+    <v1:String x:Key="m_OpenAdd">Add</v1:String>
+    <v1:String x:Key="m_OpenEdit">Edit</v1:String>
+    <v1:String x:Key="m_OpenFilter">Sort</v1:String>
+    <v1:String x:Key="m_OpenSearch">Search</v1:String>
+    <v1:String x:Key="m_Title">Title</v1:String>
+    <v1:String x:Key="m_Category">Category</v1:String>
+    <v1:String x:Key="m_Author">Author</v1:String>
+    <v1:String x:Key="m_Price">Price</v1:String>
+    <v1:String x:Key="m_Rating">Rating</v1:String>
+    <v1:String x:Key="m_Description">Description</v1:String>
+    <v1:String x:Key="m_Amount">Amount</v1:String>
+    <v1:String x:Key="m_Uncorrect">Uncorrect data</v1:String>
+    <v1:String x:Key="m_Delete">Delete</v1:String>
+    <v1:String x:Key="m_InputQuery">Input query</v1:String>
+</ResourceDictionary>

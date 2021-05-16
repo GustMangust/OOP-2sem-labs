@@ -1,0 +1,25 @@
+﻿<Window x:Class="Lab6_7.View.FilterPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab6_7.View"
+        mc:Ignorable="d"
+        Title="FilterPage" Height="200" Width="300">
+    <Grid>
+        <StackPanel Background="#A63532">
+            <ComboBox Width="150" BorderThickness="0" SelectedItem="{Binding Selected_item}" Margin="0,30,0,0">
+                <TextBlock Background="Transparent" FontSize="13" FontWeight="Medium" Text="{DynamicResource m_Title}"/>
+                <TextBlock Background="Transparent" FontSize="13" FontWeight="Medium" Text="{DynamicResource m_Author}"/>
+                <TextBlock Background="Transparent" FontSize="13" FontWeight="Medium" Text="{DynamicResource m_Price}"/> 
+                <TextBlock Background="Transparent" FontSize="13" FontWeight="Medium" Text="{DynamicResource m_Category}"/> 
+            </ComboBox>
+
+            <Border Width="80"  Height="40" Margin="0,60,0,30" Background="#FFDE9A" CornerRadius="5" BorderThickness="1" BorderBrush="LightGray">
+                <Button Width="120" Background="Transparent" Command="{Binding apply}" BorderThickness="0"  HorizontalAlignment="Center">
+                    <TextBlock FontSize="13" FontWeight="Medium" TextWrapping="Wrap" Text="{DynamicResource m_Apply}"/>
+                </Button>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Window>

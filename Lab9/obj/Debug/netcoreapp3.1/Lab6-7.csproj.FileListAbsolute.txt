@@ -1,0 +1,168 @@
+E:\ООП\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.exe
+E:\ООП\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.deps.json
+E:\ООП\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.json
+E:\ООП\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.dev.json
+E:\ООП\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.dll
+E:\ООП\Lab8\bin\Debug\netcoreapp3.1\Lab6-7.pdb
+E:\ООП\Lab8\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.UI.dll
+E:\ООП\Lab8\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.dll
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.csprojAssemblyReference.cache
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\CustomElement.g.cs
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\AddProduct.g.cs
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\EditBookPage.g.cs
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\FilterPage.g.cs
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\SearchBookPage.g.cs
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\SearchResultsPage.g.cs
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\App.g.cs
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.cache
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.lref
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\App.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\CustomElement.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Resources\colors.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Resources\dark.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Resources\lang.ru-RU.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Resources\lang.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Resources\light.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\AddProduct.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\EditBookPage.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\FilterPage.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\SearchBookPage.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\View\SearchResultsPage.baml
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.g.resources
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfoInputs.cache
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfo.cs
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CoreCompileInputs.cache
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CopyComplete
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.dll
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.pdb
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\Lab6-7.genruntimeconfig.cache
+E:\ООП\Lab8\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.csprojAssemblyReference.cache
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\CustomElement.g.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\AddProduct.g.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\EditBookPage.g.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\FilterPage.g.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\SearchBookPage.g.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\SearchResultsPage.g.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\App.g.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.cache
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.lref
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.dll
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.pdb
+E:\ООП\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.exe
+E:\ООП\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.deps.json
+E:\ООП\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.json
+E:\ООП\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.dev.json
+E:\ООП\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.dll
+E:\ООП\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.pdb
+E:\ООП\Lab8 — копия\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.UI.dll
+E:\ООП\Lab8 — копия\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.dll
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\App.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\CustomElement.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Resources\colors.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Resources\dark.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Resources\lang.ru-RU.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Resources\lang.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Resources\light.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\AddProduct.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\EditBookPage.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\FilterPage.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\SearchBookPage.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\View\SearchResultsPage.baml
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.g.resources
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CoreCompileInputs.cache
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfoInputs.cache
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfo.cs
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CopyComplete
+E:\ООП\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.genruntimeconfig.cache
+C:\Users\GustMangust\Desktop\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.exe
+C:\Users\GustMangust\Desktop\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.deps.json
+C:\Users\GustMangust\Desktop\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.json
+C:\Users\GustMangust\Desktop\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.dev.json
+C:\Users\GustMangust\Desktop\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.dll
+C:\Users\GustMangust\Desktop\Lab8 — копия\bin\Debug\netcoreapp3.1\Lab6-7.pdb
+C:\Users\GustMangust\Desktop\Lab8 — копия\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.UI.dll
+C:\Users\GustMangust\Desktop\Lab8 — копия\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.dll
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.csprojAssemblyReference.cache
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\CustomElement.g.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\AddProduct.g.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\EditBookPage.g.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\FilterPage.g.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\SearchBookPage.g.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\SearchResultsPage.g.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.cache
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.lref
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\CustomElement.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Resources\colors.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Resources\dark.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Resources\lang.ru-RU.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Resources\lang.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Resources\light.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\AddProduct.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\EditBookPage.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\FilterPage.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\SearchBookPage.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\View\SearchResultsPage.baml
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.g.resources
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CoreCompileInputs.cache
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfoInputs.cache
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfo.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CopyComplete
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.dll
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.pdb
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\Lab6-7.genruntimeconfig.cache
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\CustomElement1.g.cs
+C:\Users\GustMangust\Desktop\Lab8 — копия\obj\Debug\netcoreapp3.1\CustomElement1.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7.dll
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7.pdb
+D:\ООП\Lab9\bin\Debug\netcoreapp3.1\Lab6-7.exe
+D:\ООП\Lab9\bin\Debug\netcoreapp3.1\Lab6-7.deps.json
+D:\ООП\Lab9\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.json
+D:\ООП\Lab9\bin\Debug\netcoreapp3.1\Lab6-7.runtimeconfig.dev.json
+D:\ООП\Lab9\bin\Debug\netcoreapp3.1\Lab6-7.dll
+D:\ООП\Lab9\bin\Debug\netcoreapp3.1\Lab6-7.pdb
+D:\ООП\Lab9\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.UI.dll
+D:\ООП\Lab9\bin\Debug\netcoreapp3.1\DevExpress.Mvvm.dll
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7.csprojAssemblyReference.cache
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\CustomElement.g.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\CustomElement1.g.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\AddProduct.g.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\EditBookPage.g.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\FilterPage.g.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\SearchBookPage.g.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\SearchResultsPage.g.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\App.g.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.cache
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7_MarkupCompile.lref
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\App.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\CustomElement.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\CustomElement1.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Resources\colors.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Resources\dark.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Resources\lang.ru-RU.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Resources\lang.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Resources\light.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\AddProduct.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\EditBookPage.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\FilterPage.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\SearchBookPage.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\View\SearchResultsPage.baml
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7.g.resources
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfoInputs.cache
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7.AssemblyInfo.cs
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CoreCompileInputs.cache
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7.csproj.CopyComplete
+D:\ООП\Lab9\obj\Debug\netcoreapp3.1\Lab6-7.genruntimeconfig.cache

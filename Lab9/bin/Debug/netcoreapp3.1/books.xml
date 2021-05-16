@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Full_title>валповапавпвапва</Full_title>
+    <Author_name>пващпьжва</Author_name>
+    <Description>ваплва</Description>
+    <Category>падваопжв</Category>
+    <Picture>E:\ООП\Lab8\bin\Debug\netcoreapp3.1\0_897e8_65bcd844_orig.jpg</Picture>
+    <Rating>5</Rating>
+    <Amount>15</Amount>
+    <Price>10</Price>
+  </Book>
+  <Book>
+    <Full_title>оплоилщ</Full_title>
+    <Author_name>рпорм</Author_name>
+    <Description>щожзщозщо</Description>
+    <Category>оршр</Category>
+    <Picture>E:\ООП\Lab8\bin\Debug\netcoreapp3.1\0_897eb_da41fc31_orig.jpg</Picture>
+    <Rating>4</Rating>
+    <Amount>10</Amount>
+    <Price>80</Price>
+  </Book>
+  <Book>
+    <Full_title>вапвап</Full_title>
+    <Author_name>аывавы</Author_name>
+    <Description>авыавы</Description>
+    <Category>ыпвп</Category>
+    <Picture>E:\ООП\Lab8\bin\Debug\netcoreapp3.1\VOLKI-krasivye-i-ochen-umnye-zhivotnye.jpg</Picture>
+    <Rating>5</Rating>
+    <Amount>20</Amount>
+    <Price>30</Price>
+  </Book>
+</ArrayOfBook>
